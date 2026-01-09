@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "lint:html": "htmlhint **/*.html"
+    "lint:html": "htmlhint '**/*.html'"
   },
   "repository": {
     "type": "git",
